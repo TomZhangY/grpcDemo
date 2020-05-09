@@ -1,0 +1,24 @@
+[2020-05-09 15:36:06.816]  INFO  HelloWorldServer start  29 - Server started, listening on 50000
+[2020-05-09 15:36:19.928]  INFO  HelloWorldClient greet  46 - Greeting: Hello world
+[2020-05-09 16:00:39.206]  INFO  HelloWorldClient greet  45 - Greeting: Hello world
+[2020-05-09 16:00:39.248]  INFO  HelloWorldClient greet  45 - Greeting: Hello world
+[2020-05-09 16:00:39.271]  INFO  HelloWorldClient greet  45 - Greeting: Hello world
+[2020-05-09 16:02:45.233]  INFO  HelloWorldClient greet  46 - Greeting: Hello world
+[2020-05-09 16:02:45.255]  INFO  HelloWorldClient greet  46 - Greeting: Hello world
+[2020-05-09 16:02:45.283]  INFO  HelloWorldClient greet  46 - Greeting: Hello world
+[2020-05-09 16:05:32.680]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:05:32.737]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:05:32.788]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:06:04.430]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:06:04.502]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:06:04.540]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:12:31.136]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:12:31.160]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:12:31.166]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:12:31.184]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:12:31.193]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:13:36.347]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:13:36.364]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:13:36.373]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:13:36.405]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
+[2020-05-09 16:13:36.418]  INFO  HelloWorldClient greet  47 - Greeting: Hello world
